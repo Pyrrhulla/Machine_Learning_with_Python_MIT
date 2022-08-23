@@ -1,12 +1,12 @@
 # MITx 6.86x Machine Learning with Python-From Linear Models to Deep Learning
-**Project 1** 
+**Project 1: Automatic Review Analyzer** 
 
 The goal of this project is to design a classifier to use for sentiment analysis of product reviews. Our training set consists of reviews written by Amazon customers for various food products. The reviews, originally given on a 5 point scale, have been adjusted to a +1 or -1 scale, representing a positive or negative review, respectively. 
 
 
 
 
-**Project 2** 
+**Project 2: Digit Recognition** 
 
 Aim: create a numeric recognition algorithm, using a simple neural network.  
 
