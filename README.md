@@ -1,6 +1,6 @@
 # MITx 6.86x Machine Learning with Python-From Linear Models to Deep Learning
 
-**Certificate received: 09.07.2020** [dc6250ab91f34ad8a3cdcde6e6e86da9](https://courses.edx.org/certificates/dc6250ab91f34ad8a3cdcde6e6e86da9)
+**Certificate received: 09.06.2020** [dc6250ab91f34ad8a3cdcde6e6e86da9](https://courses.edx.org/certificates/dc6250ab91f34ad8a3cdcde6e6e86da9)
 
 **Project 1: Automatic Review Analyzer** 
 
