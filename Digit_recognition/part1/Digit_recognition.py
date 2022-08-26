@@ -1,3 +1,5 @@
+#All solutions
+
 #1. Closed Form Solution of Linear Regression
 
 def closed_form(X, Y, lambda_factor):
