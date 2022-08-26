@@ -3,6 +3,7 @@
 **Certificate received: 09.06.2020** [dc6250ab91f34ad8a3cdcde6e6e86da9](https://courses.edx.org/certificates/dc6250ab91f34ad8a3cdcde6e6e86da9)
 __________
 **Other certificates**
+
 **6.431x: Probability - The Science of Uncertainty and Data**
 
 **Certificate received: 29.05.2020** [ccb5b62a577a4394acb4731dec2ff2c4](https://courses.edx.org/certificates/ccb5b62a577a4394acb4731dec2ff2c4)
